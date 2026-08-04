@@ -1,5 +1,8 @@
 # vitest-circleci-coverage
 
+> [!IMPORTANT]
+> This plugin has moved: https://github.com/CircleCI-Public/smarter-testing-plugins
+
 [![JSR](https://jsr.io/badges/@circleci/vitest-circleci-coverage)](https://jsr.io/@circleci/vitest-circleci-coverage)
 
 A Vitest plugin that generates coverage data for
